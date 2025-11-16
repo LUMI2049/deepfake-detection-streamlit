@@ -1,0 +1,12 @@
+# Hugging Face Model Upload Requirements
+# Install these packages to upload and manage models on Hugging Face Hub
+
+# Core dependencies
+tensorflow>=2.15.0
+huggingface-hub>=0.20.0
+numpy>=1.24.0
+pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Optional: For advanced features
+# git-lfs  # Required for large file storage (install via system package manager)

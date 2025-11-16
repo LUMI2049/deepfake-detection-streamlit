@@ -1,0 +1,70 @@
+{
+  "model_type": "efficientnet-attention",
+  "architecture": "EfficientNetB7 with Custom Attention Mechanism",
+  "framework": "tensorflow",
+  "task": "image-classification",
+  "tags": [
+    "deepfake-detection",
+    "image-classification",
+    "computer-vision",
+    "efficientnet",
+    "attention-mechanism",
+    "synthetic-image-detection",
+    "gan-detection",
+    "diffusion-detection"
+  ],
+  "input_shape": [128, 128, 3],
+  "num_classes": 2,
+  "class_labels": ["Fake", "Real"],
+  "preprocessing": {
+    "resize": [128, 128],
+    "normalization": "0-1",
+    "color_mode": "RGB",
+    "description": "Images should be resized to 128x128 pixels and normalized to [0, 1] range"
+  },
+  "model_size_mb": 780,
+  "parameters": {
+    "total": "~66M",
+    "trainable": "~2M",
+    "backbone": "EfficientNetB7 (frozen)",
+    "custom_layers": "Attention mechanism + Classification head"
+  },
+  "performance": {
+    "inference_time_cpu": "2-3 seconds per image (Intel i5-8250U)",
+    "inference_time_gpu": "< 1 second per image (NVIDIA GTX 1060)",
+    "memory_usage": "~2 GB RAM"
+  },
+  "supported_generative_models": {
+    "GANs": [
+      "StyleGAN (v1, v2, v3)",
+      "ProGAN",
+      "BigGAN",
+      "CycleGAN",
+      "StarGAN",
+      "DCGAN",
+      "WGAN"
+    ],
+    "Diffusion": [
+      "Stable Diffusion",
+      "DALL-E (2, 3)",
+      "Midjourney",
+      "Imagen",
+      "DDPM",
+      "DDIM"
+    ],
+    "Other": [
+      "VAE-based generators",
+      "Autoregressive models",
+      "Neural style transfer",
+      "Image-to-image translation"
+    ]
+  },
+  "version": "1.0.0",
+  "author": "Emin Cem Koyluoglu",
+  "conference": "AICS 2025 (33rd Irish Conference on AI and Cognitive Science)",
+  "license": "MIT",
+  "repository": "https://github.com/CemRoot/deepfake-detection-streamlit",
+  "demo": "https://your-app-url.streamlit.app",
+  "created_date": "2025-01-15",
+  "framework_version": "tensorflow==2.15.0"
+}
