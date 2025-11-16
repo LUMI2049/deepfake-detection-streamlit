@@ -11,7 +11,7 @@
 > **Notebook kodları, Flask app ve demo görselleri için yukarıdaki butona tıklayınız** | *Click above for notebooks, Flask app, and demo images*
 
 ### 🤗 Pre-trained Models
-[![Download Models](https://img.shields.io/badge/🤗%20Models-Download-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/CemRoot/deepfake-detection-model)
+[![Download Models](https://img.shields.io/badge/%20Models-Download-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/CemRoot/deepfake-detection-model)
 >  *Click above to access pre-trained models*
 
 ### 🚀 Live Demos
