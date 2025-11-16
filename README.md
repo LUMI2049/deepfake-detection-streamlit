@@ -16,8 +16,7 @@
 
 ### 🚀 Live Demos
 [![Gradio Demo](https://img.shields.io/badge/🤗%20Gradio-Live%20Demo-blue?style=for-the-badge)](https://huggingface.co/spaces/CemRoot/deepfake-detection-aics2025)
-[![Streamlit Demo](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit)]([https://deepfake-detection-app-4ogcgzlgv7n9yuncblpz2r.streamlit.app/](https://deepfake-detection-app-4ogcgzlgv7n9yuncblpz2r.streamlit.app/))
-
+[![Streamlit Demo](https://img.shields.io/badge/Streamlit-Live%20App-FF4B4B?style=for-the-badge&logo=streamlit)](https://deepfake-detection-app-4ogcgzlgv7n9yuncblpz2r.streamlit.app)
 ---
 
 ## 🏷️ Badges
