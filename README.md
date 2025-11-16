@@ -12,7 +12,7 @@
 
 ### 🤗 Pre-trained Models
 [![Download Models](https://img.shields.io/badge/🤗%20Models-Download-yellow?style=for-the-badge&logo=huggingface)](https://huggingface.co/CemRoot/deepfake-detection-model)
-> **Eğitilmiş modellere ulaşmak için yukarıdaki butona tıklayınız** | *Click above to access pre-trained models*
+>  *Click above to access pre-trained models*
 
 ### 🚀 Live Demos
 [![Gradio Demo](https://img.shields.io/badge/🤗%20Gradio-Live%20Demo-blue?style=for-the-badge)](https://huggingface.co/spaces/CemRoot/deepfake-detection-aics2025)
